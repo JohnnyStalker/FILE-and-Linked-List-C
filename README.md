@@ -10,3 +10,10 @@ YouTube: https://www.youtube.com/channel/UCOcNWasd2Cklv0yxpKZjTyg.
 AGRADEÇO TAMBÉM A UM USUÁRIO DO STACKOVERFLOW, GUILHERME BERNAL, POR MOSTRAR SUA FUNÇÃO DE LER BUFFER (LIMPAR \n DE INPUTS);
 link: https://pt.stackoverflow.com/questions/9427/limpeza-do-buffer-do-teclado-ap%C3%B3s-scanf.
 
+
+TRABALHO REALIZADO POR:
+ANTÔNIO JUNIOR.
+GABRIEL OTON.
+GUILHERME ROQUE.
+JONATHAS NÓBREGA.
+MARIA RITA.
